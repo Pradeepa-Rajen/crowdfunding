@@ -17,7 +17,7 @@ SQL was used only for queries, not for dashboards.
 4.  Crowdfunding_PowerBi.pbix - Solved business questions using PowerBI
 5.  Kickstarter_crowdfunding_project.pptx -- Presentation about the Crowdfunding project
 
-** Business questions :**
+**Business questions :**
 1. Convert the Date fields to Natural Time ( Currently the dates are in Epoch time Read the attached Artical for Reference on Epoch Time 
              https://www.epochconverter.com/ )
 2. Build a Calendar Table using the Date Column Created Date ( Which has Dates from Minimum Dates and Maximum Dates)
