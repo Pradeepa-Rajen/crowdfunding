@@ -11,11 +11,12 @@ Designed dashboards in Excel, Power BI, and Tableau
 SQL was used only for queries, not for dashboards.
 
 **Instructions:**
-1. Calendar Table.xlsx -- Has data about year, month, financial quarter, etc. in date format
+1. Calendar.xlsx -- Has data about year, month, financial quarter, etc. in date format
 2. Crowdfunding_MYSQL.sql -- Solved business questions using MySQL Workbench
 3.  Crowdfunding_Tableau.twbx - Solved business questions using Tableau
 4.  Crowdfunding_PowerBi.pbix - Solved business questions using PowerBI
-5.  Kickstarter_crowdfunding_project.pptx -- Presentation about the Crowdfunding project
+5.  Crowdfunding_Excel.xlsx - Solved business questions using Excel
+6.  Kickstarter_crowdfunding_project.pptx -- Presentation about the Crowdfunding project
 
 **Business questions :**
 1. Convert the Date fields to Natural Time ( Currently the dates are in Epoch time Read the attached Artical for Reference on Epoch Time 
